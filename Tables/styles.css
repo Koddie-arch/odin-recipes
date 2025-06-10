@@ -1,0 +1,8 @@
+table, th, td {
+    border:2px solid blueviolet;
+    border-radius: 10px;
+}
+table{
+    margin: auto;
+    width:50%;
+}
